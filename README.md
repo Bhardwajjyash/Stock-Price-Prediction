@@ -1,1 +1,3 @@
 # Stock-Price-Prediction
+
+This project analyzes monthly stock price data from July 2005 to September 2007 to predict the closing price using features like Open, High, and Low. The data was preprocessed, explored through visualizations, and cleaned for outliers. A Linear Regression model was trained and evaluated using MAE, MSE, RMSE, and R² score. Cross-validation ensured model reliability, while GridSearchCV was used for hyperparameter tuning. The final model showed a strong ability to estimate closing prices based on historical trends. This project demonstrates how basic regression techniques can be effectively applied to financial time series prediction.
